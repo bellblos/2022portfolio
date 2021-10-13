@@ -40,7 +40,7 @@ body {
 .footer {
 	background: ##FAF3DF;
 	margin: 0px;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 50px;
 	text-align: center;
