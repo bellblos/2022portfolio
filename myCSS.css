@@ -16,7 +16,7 @@ body {
 	text-align: center;
 	margin: 0px;
 	padding: 5;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 80px;
 	
@@ -25,7 +25,7 @@ body {
 	background: #DBDEC5;
 	margin: 0px;
 	padding: 5;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 60px;
 	text-align: center;
@@ -33,7 +33,7 @@ body {
 .content {
 	background: #DEDAC5;
 	margin: 0px;
-	float: left;
+	float: center;
 	width: 100%;
 	text-align: center;
 }
