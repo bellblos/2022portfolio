@@ -8,6 +8,7 @@ body {
 	background: #F6F5E7;
 }
 .container {
+	margin: 0 auto;
 	width: 960px;
 }
 .header {
